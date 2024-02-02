@@ -1,0 +1,66 @@
+/* input[type="checkbox"]:checked+.stric {
+  text-decoration: line-through;
+  color: rgba(0, 0, 0, 0.5);
+} */
+
+div {
+  width: 500px;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: auto;
+  text-align: center;
+
+}
+
+h1
+{
+  color: white;
+  margin: 0px;
+  
+}
+div .ans {
+width:200px;
+height: 22px;
+margin: 20px 10px;
+font-weight: bold;
+border: white 2px solid;
+  border-radius: 5px;
+
+}
+div input[type="text"] {
+width:200px;
+height: 30px;
+padding-left: 10px;
+border-radius: 5px;
+margin: 5px;
+}
+div table tr td .ww {
+width:200px;
+height: 30px;
+padding-left: 10px;
+border-radius: 5px;
+margin: 5px;
+font-size: 16px;
+font-weight: bold;
+}
+div table tr td .tt {
+  width: 25px;
+  height: 25px;
+  margin: 10px;
+
+}
+div input[type="button"] {
+padding: 5px 15px;
+margin: 10px;
+font-size: 20px;
+font-weight: bold;
+}
+ul{
+  list-style-type: none;
+  padding-bottom: 20px;
+}
+
+div .btn
+{
+  padding: 5px 35px;
+  border-radius: 5px;
+}
